@@ -24,6 +24,12 @@ This project is simple but **extendable** — you can later add GUI (JavaFX), da
   - `OutOfStockException` → when stock is insufficient  
   - (Planned) `InvalidCouponException`, `CartEmptyException`  
 
+## 📸 Sample Output
+
+![Shopping Cart Output](Screenshot 2025-09-05 21530.png)
+
+
+
 ---
 
 
