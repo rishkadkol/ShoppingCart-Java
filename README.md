@@ -26,7 +26,7 @@ This project is simple but **extendable** — you can later add GUI (JavaFX), da
 
 ## 📸 Sample Output
 
-![Shopping Cart Output](Screenshot 2025-09-05 21530.png)
+![Shopping Cart Output](Screenshot%202025-09-05%20215303.png)
 
 
 
