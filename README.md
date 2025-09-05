@@ -8,7 +8,6 @@ It demonstrates key programming concepts such as:
 - ✅ Category & product selection  
 - ✅ Discounts applied per category  
 
-This project is simple but **extendable** — you can later add GUI (JavaFX), database (MySQL/SQLite), or even turn it into a REST API.
 
 ---
 
